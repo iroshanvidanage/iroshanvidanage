@@ -6,10 +6,7 @@ Welcome to my GitHub profile! I'm a Cloud SRE based in Colombo, Sri Lanka, with 
 
 With a solid foundation in AWS, I specialize in fault tolerance and resilient systems. Over the past 3 years, I've had the privilege of working on distributed compute systems and microservices, delivering impactful solutions that enhance system availability.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" alt="GO"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" alt="GO"/>
 
 
 ## How to Reach Me
