@@ -44,7 +44,7 @@ I'm always open to connecting and discussing new ideas. Feel free to reach out v
 
 [<img src="https://devicon-website.vercel.app/api/chrome/plain.svg?color=%23488EF8" width="40" alt="MailTo"/>][Email]
 
-[LinkedIn]: https://www.linkedin.com/in/iroshanav/
+[LinkedIn]: https://www.linkedin.com/in/iroshan-va/
 [Email]: mailto:iroshan.anuranga25@gmail.com
 
 Let's connect and explore together!
